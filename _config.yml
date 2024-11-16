@@ -1,0 +1,14 @@
+# Site settings
+title: Point85
+email: point85.llc@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Point85 website description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://point85.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: your_twitter_username
+github_username:  point85
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
